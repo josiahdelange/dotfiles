@@ -23,7 +23,7 @@ PATH+=:/Library/Frameworks/Python.framework/Versions/2.7/bin
 PATH+=:/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources
 
 export PATH
-export GOPATH=~/Developer
+export GOPATH=~
 export GOROOT=/usr/local/go
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad ###GxFxCxDxBxegedabagaced
